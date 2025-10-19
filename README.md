@@ -1,29 +1,5 @@
-### Hi there! 👋
+# Hi, I'm Tegar 👋
 
-I'm Tegar Mandiri, a passionate web developer from Indonesia.
+A **Junior Software Engineer** from Indonesia, focused on designing and building scalable, maintainable, and user-centered systems. I work mainly with **React (TypeScript)** and **Laravel**, supported by **MariaDB** and **Oracle** for database management. My goal is to create reliable digital solutions that balance clear architecture with a seamless user experience. I approach software development as a continuous learning process. Every project helps me strengthen my understanding of system design, data flow, and application architecture. My goal is to build software that remains stable, adaptable, and easy to maintain as it grows. For me, good architecture isn’t just about performance, but about how well it supports long-term maintainability and aligns with real user and business needs.
 
-## 🔧 Technologies & Tools
-
-- **Programming Languages:** C, C++
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Laravel
-- **Database:** MySQL
-- **Tools:** VS Code, Git
-
-## 🌱 Currently Learning
-
-I'm currently focusing on learning backend development.
-
-## 🚀 Fun Facts
-
-- I enjoy playing musical instruments like guitar, piano, drums, and violin.
-- I like listening to music.
-- I have a keen interest in art.
-- I love competitive programming.
-
-## 📫 Let's Connect
-
-- Twitter: [@tegarmndr](https://twitter.com/tegarmndr)
-- LinkedIn: [Tegar Mandiri](https://www.linkedin.com/in/tegarmndr/)
-
-Thanks for visiting my profile! 😊
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/tegarmndr/) or explore my work here on [GitHub](https://github.com/tegarmndr).
